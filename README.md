@@ -10,5 +10,5 @@ http请求地址和资源文件映射如下:
 /{label}/{application}-{profile}.properties
 
 
-
+http://192.168.0.116:7005/config-client-dev.properties
 http://192.168.0.116:7005/master/config-client-dev.properties
