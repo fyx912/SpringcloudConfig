@@ -1,5 +1,6 @@
-name: git-dev
-password: 123456
-age: 10
-address: ShenZhen
-profiles: dev
+user:
+  name: github
+  password: jasdasdfasdfhas
+  age: 10
+  address: ShenZhen
+  profiles: dev
